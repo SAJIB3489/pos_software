@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\HP\source\repos\KHALAQPROOF\KHALAQPROOF\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Logins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
