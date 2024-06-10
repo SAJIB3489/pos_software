@@ -9,9 +9,8 @@ This repository contains a Point of Sale (POS) system developed in C# using .NET
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Video Demonstration](#video-demonstration)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -107,6 +106,11 @@ Here are some screenshots of the application:
 ### Product Receipt
 ![Product Receipt](attachment/13receipt.png)
 
+
+## Video Demonstration
+
+Watch the video demonstration of the POS System to see how it works:
+[Video Demonstration Link](attachment/Software_demostration.wmv)
 
 ## Contributing
 
